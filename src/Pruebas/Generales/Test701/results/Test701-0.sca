@@ -1,0 +1,1533 @@
+version 2
+run Test701-0-20110218-11:50:57-963
+attr configname Test701
+attr datetime 20110218-11:50:57
+attr experiment Test701
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network CompleteProviderNetwork1
+attr processid 963
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames sent" 	3257
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames rcvd" 	2771
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"bytes sent" 	1369109
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"bytes rcvd" 	1325898
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames from higher layer" 	3257
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames passed up to HL" 	2771
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames/sec sent" 	2.7141666666667
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"frames/sec rcvd" 	2.3091666666667
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"bits/sec sent" 	9127.3933333333
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"bits/sec rcvd" 	8839.32
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"rx channel idle (%)" 	99.991012893333
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"rx channel utilization (%)" 	0.0089871066666667
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB1.macB[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames sent" 	1119
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames rcvd" 	625
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"bytes sent" 	39165
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"bytes rcvd" 	21875
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames from higher layer" 	1119
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames passed up to HL" 	625
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames/sec sent" 	0.9325
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"frames/sec rcvd" 	0.52083333333333
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"bits/sec sent" 	261.1
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"bits/sec rcvd" 	145.83333333333
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"rx channel idle (%)" 	99.999820833333
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"rx channel utilization (%)" 	0.00017916666666667
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB1.macB[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames sent" 	3256
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames rcvd" 	2776
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"bytes sent" 	1342159
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"bytes rcvd" 	1352750
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames from higher layer" 	3256
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames passed up to HL" 	2776
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames/sec sent" 	2.7133333333333
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"frames/sec rcvd" 	2.3133333333333
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"bits/sec sent" 	8947.7266666667
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"bits/sec rcvd" 	9018.3333333333
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"rx channel idle (%)" 	99.990833613333
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"rx channel utilization (%)" 	0.0091663866666667
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB1.macB[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames sent" 	2776
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames rcvd" 	3256
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"bytes sent" 	1352750
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"bytes rcvd" 	1342159
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames from higher layer" 	2776
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames passed up to HL" 	3256
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames/sec sent" 	2.3133333333333
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"frames/sec rcvd" 	2.7133333333333
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"bits/sec sent" 	9018.3333333333
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"bits/sec rcvd" 	8947.7266666667
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"rx channel idle (%)" 	99.99087862
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"rx channel utilization (%)" 	0.00912138
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB2.macB[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames sent" 	1195
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames rcvd" 	64
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"bytes sent" 	46473
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"bytes rcvd" 	6888
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames from higher layer" 	1195
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames passed up to HL" 	64
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames/sec sent" 	0.99583333333333
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"frames/sec rcvd" 	0.053333333333333
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"bits/sec sent" 	309.82
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"bits/sec rcvd" 	45.92
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"rx channel idle (%)" 	99.999950666667
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"rx channel utilization (%)" 	4.9333333333333e-05
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB2.macB[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames sent" 	4387
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames rcvd" 	3856
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"bytes sent" 	1511580
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"bytes rcvd" 	2496956
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames from higher layer" 	4387
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames passed up to HL" 	3856
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames/sec sent" 	3.6558333333333
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"frames/sec rcvd" 	3.2133333333333
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"bits/sec sent" 	10077.2
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"bits/sec rcvd" 	16646.373333333
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"rx channel idle (%)" 	99.983147973333
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"rx channel utilization (%)" 	0.016852026666667
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB2.macB[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames sent" 	2283
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames rcvd" 	1681
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"bytes sent" 	1181544
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"bytes rcvd" 	184499
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames from higher layer" 	2283
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames passed up to HL" 	1681
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames/sec sent" 	1.9025
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"frames/sec rcvd" 	1.4008333333333
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"bits/sec sent" 	7876.96
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"bits/sec rcvd" 	1229.9933333333
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"rx channel idle (%)" 	99.998680353333
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"rx channel utilization (%)" 	0.0013196466666667
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB2.macB[3] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames sent" 	2771
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames rcvd" 	3257
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"bytes sent" 	1325898
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"bytes rcvd" 	1369109
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames from higher layer" 	2771
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames passed up to HL" 	3257
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames/sec sent" 	2.3091666666667
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"frames/sec rcvd" 	2.7141666666667
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"bits/sec sent" 	8839.32
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"bits/sec rcvd" 	9127.3933333333
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"rx channel idle (%)" 	99.9906989
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"rx channel utilization (%)" 	0.0093011
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB3.macB[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames sent" 	1201
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames rcvd" 	65
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"bytes sent" 	46683
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"bytes rcvd" 	6923
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames from higher layer" 	1201
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames passed up to HL" 	65
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames/sec sent" 	1.0008333333333
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"frames/sec rcvd" 	0.054166666666667
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"bits/sec sent" 	311.22
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"bits/sec rcvd" 	46.153333333333
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"rx channel idle (%)" 	99.99995038
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"rx channel utilization (%)" 	4.962e-05
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB3.macB[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames sent" 	2746
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames rcvd" 	3405
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"bytes sent" 	1295784
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"bytes rcvd" 	1299060
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames from higher layer" 	2746
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames passed up to HL" 	3405
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames/sec sent" 	2.2883333333333
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"frames/sec rcvd" 	2.8375
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"bits/sec sent" 	8638.56
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"bits/sec rcvd" 	8660.4
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"rx channel idle (%)" 	99.991158
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"rx channel utilization (%)" 	0.008842
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB3.macC[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames sent" 	625
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames rcvd" 	1119
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"bytes sent" 	21875
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"bytes rcvd" 	39165
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames from higher layer" 	625
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames passed up to HL" 	1119
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames/sec sent" 	0.52083333333333
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"frames/sec rcvd" 	0.9325
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"bits/sec sent" 	145.83333333333
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"bits/sec rcvd" 	261.1
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"rx channel idle (%)" 	99.99967922
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"rx channel utilization (%)" 	0.00032078
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB4.macB[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames sent" 	65
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames rcvd" 	1201
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"bytes sent" 	6923
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"bytes rcvd" 	46683
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames from higher layer" 	65
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames passed up to HL" 	1201
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames/sec sent" 	0.054166666666667
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"frames/sec rcvd" 	1.0008333333333
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"bits/sec sent" 	46.153333333333
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"bits/sec rcvd" 	311.22
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"rx channel idle (%)" 	99.999624726667
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"rx channel utilization (%)" 	0.00037527333333333
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB4.macB[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames sent" 	64
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames rcvd" 	1195
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"bytes sent" 	6888
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"bytes rcvd" 	46473
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames from higher layer" 	64
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames passed up to HL" 	1195
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames/sec sent" 	0.053333333333333
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"frames/sec rcvd" 	0.99583333333333
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"bits/sec sent" 	45.92
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"bits/sec rcvd" 	309.82
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"rx channel idle (%)" 	99.999626446667
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"rx channel utilization (%)" 	0.00037355333333333
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB4.macB[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames sent" 	3856
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames rcvd" 	4387
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"bytes sent" 	2496956
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"bytes rcvd" 	1511580
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames from higher layer" 	3856
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames passed up to HL" 	4387
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames/sec sent" 	3.2133333333333
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"frames/sec rcvd" 	3.6558333333333
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"bits/sec sent" 	16646.373333333
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"bits/sec rcvd" 	10077.2
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"rx channel idle (%)" 	99.989688826667
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"rx channel utilization (%)" 	0.010311173333333
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB5.macB[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames sent" 	1204
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames rcvd" 	18
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"bytes sent" 	42140
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"bytes rcvd" 	630
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames from higher layer" 	1204
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames passed up to HL" 	18
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames/sec sent" 	1.0033333333333
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"frames/sec rcvd" 	0.015
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"bits/sec sent" 	280.93333333333
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"bits/sec rcvd" 	4.2
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"rx channel idle (%)" 	99.99999484
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"rx channel utilization (%)" 	5.16e-06
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB5.macB[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames sent" 	3797
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames rcvd" 	4463
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"bytes sent" 	1401414
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"bytes rcvd" 	2431212
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames from higher layer" 	3797
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames passed up to HL" 	4463
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames/sec sent" 	3.1641666666667
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"frames/sec rcvd" 	3.7191666666667
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"bits/sec sent" 	9342.76
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"bits/sec rcvd" 	16208.08
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"rx channel idle (%)" 	99.983553893333
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"rx channel utilization (%)" 	0.016446106666667
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB5.macC[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames sent" 	1681
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames rcvd" 	2283
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"bytes sent" 	184499
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"bytes rcvd" 	1181544
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames from higher layer" 	1681
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames passed up to HL" 	2283
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames/sec sent" 	1.4008333333333
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"frames/sec rcvd" 	1.9025
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"bits/sec sent" 	1229.9933333333
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"bits/sec rcvd" 	7876.96
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"rx channel idle (%)" 	99.99200128
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"rx channel utilization (%)" 	0.00799872
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB6.macB[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames sent" 	18
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames rcvd" 	1204
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"bytes sent" 	630
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"bytes rcvd" 	42140
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames from higher layer" 	18
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames passed up to HL" 	1204
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames/sec sent" 	0.015
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"frames/sec rcvd" 	1.0033333333333
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"bits/sec sent" 	4.2
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"bits/sec rcvd" 	280.93333333333
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"rx channel idle (%)" 	99.999654853333
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"rx channel utilization (%)" 	0.00034514666666667
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB6.macB[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames sent" 	1654
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames rcvd" 	2266
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"bytes sent" 	1121636
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"bytes rcvd" 	173618
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames from higher layer" 	1654
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames passed up to HL" 	2266
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames/sec sent" 	1.3783333333333
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"frames/sec rcvd" 	1.8883333333333
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"bits/sec sent" 	7477.5733333333
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"bits/sec rcvd" 	1157.4533333333
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"rx channel idle (%)" 	99.998721693333
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"rx channel utilization (%)" 	0.0012783066666667
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BEB6.macC[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames sent" 	3405
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames rcvd" 	2746
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"bytes sent" 	1299060
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"bytes rcvd" 	1295784
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames from higher layer" 	3405
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames passed up to HL" 	2746
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames/sec sent" 	2.8375
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"frames/sec rcvd" 	2.2883333333333
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"bits/sec sent" 	8660.4
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"bits/sec rcvd" 	8638.56
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"rx channel idle (%)" 	99.991214986667
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"rx channel utilization (%)" 	0.0087850133333333
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames sent" 	1687
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames rcvd" 	2347
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"bytes sent" 	1158002
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"bytes rcvd" 	183500
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames from higher layer" 	1687
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames passed up to HL" 	2347
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames/sec sent" 	1.4058333333333
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"frames/sec rcvd" 	1.9558333333333
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"bits/sec sent" 	7720.0133333333
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"bits/sec rcvd" 	1223.3333333333
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"rx channel idle (%)" 	99.998651493333
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"rx channel utilization (%)" 	0.0013485066666667
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames sent" 	1658
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames rcvd" 	2240
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"bytes sent" 	150076
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"bytes rcvd" 	1148038
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames from higher layer" 	1658
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames passed up to HL" 	2240
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames/sec sent" 	1.3816666666667
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"frames/sec rcvd" 	1.8666666666667
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"bits/sec sent" 	1000.5066666667
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"bits/sec rcvd" 	7653.5866666667
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"rx channel idle (%)" 	99.992226946667
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"rx channel utilization (%)" 	0.0077730533333333
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD1.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames sent" 	4463
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames rcvd" 	3797
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"bytes sent" 	2431212
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"bytes rcvd" 	1401414
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames from higher layer" 	4463
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames passed up to HL" 	3797
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames/sec sent" 	3.7191666666667
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"frames/sec rcvd" 	3.1641666666667
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"bits/sec sent" 	16208.08
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"bits/sec rcvd" 	9342.76
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"rx channel idle (%)" 	99.990454733333
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"rx channel utilization (%)" 	0.0095452666666667
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames sent" 	2292
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames rcvd" 	1695
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"bytes sent" 	181230
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"bytes rcvd" 	1162630
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames from higher layer" 	2292
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames passed up to HL" 	1695
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames/sec sent" 	1.91
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"frames/sec rcvd" 	1.4125
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"bits/sec sent" 	1208.2
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"bits/sec rcvd" 	7750.8666666667
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"rx channel idle (%)" 	99.992158733333
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"rx channel utilization (%)" 	0.0078412666666667
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames sent" 	3294
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames rcvd" 	2799
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"bytes sent" 	1285074
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"bytes rcvd" 	1269667
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames from higher layer" 	3294
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames passed up to HL" 	2799
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames/sec sent" 	2.745
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"frames/sec rcvd" 	2.3325
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"bits/sec sent" 	8567.16
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"bits/sec rcvd" 	8464.4466666667
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"rx channel idle (%)" 	99.991386273333
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"rx channel utilization (%)" 	0.0086137266666667
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD2.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames sent" 	1695
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames rcvd" 	2292
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"bytes sent" 	1162630
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"bytes rcvd" 	181230
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames from higher layer" 	1695
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames passed up to HL" 	2292
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames/sec sent" 	1.4125
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"frames/sec rcvd" 	1.91
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"bits/sec sent" 	7750.8666666667
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"bits/sec rcvd" 	1208.2
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"rx channel idle (%)" 	99.99866956
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"rx channel utilization (%)" 	0.00133044
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames sent" 	1687
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames rcvd" 	2269
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"bytes sent" 	153614
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"bytes rcvd" 	1178372
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames from higher layer" 	1687
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames passed up to HL" 	2269
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames/sec sent" 	1.4058333333333
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"frames/sec rcvd" 	1.8908333333333
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"bits/sec sent" 	1024.0933333333
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"bits/sec rcvd" 	7855.8133333333
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"rx channel idle (%)" 	99.992023173333
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"rx channel utilization (%)" 	0.0079768266666667
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames sent" 	1196
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames rcvd" 	3
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"bytes sent" 	41860
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"bytes rcvd" 	105
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames from higher layer" 	1196
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames passed up to HL" 	3
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames/sec sent" 	0.99666666666667
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"frames/sec rcvd" 	0.0025
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"bits/sec sent" 	279.06666666667
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"bits/sec rcvd" 	0.7
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"rx channel idle (%)" 	99.99999914
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"rx channel utilization (%)" 	8.6e-07
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD3.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames sent" 	2799
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames rcvd" 	3294
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"bytes sent" 	1269667
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"bytes rcvd" 	1285074
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames from higher layer" 	2799
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames passed up to HL" 	3294
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames/sec sent" 	2.3325
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"frames/sec rcvd" 	2.745
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"bits/sec sent" 	8464.4466666667
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"bits/sec rcvd" 	8567.16
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"rx channel idle (%)" 	99.99125716
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"rx channel utilization (%)" 	0.00874284
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames sent" 	3
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames rcvd" 	1196
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"bytes sent" 	105
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"bytes rcvd" 	41860
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames from higher layer" 	3
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames passed up to HL" 	1196
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames/sec sent" 	0.0025
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"frames/sec rcvd" 	0.99666666666667
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"bits/sec sent" 	0.7
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"bits/sec rcvd" 	279.06666666667
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"rx channel idle (%)" 	99.999657146667
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"rx channel utilization (%)" 	0.00034285333333333
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames sent" 	2710
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames rcvd" 	3376
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"bytes sent" 	1256012
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"bytes rcvd" 	1281086
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames from higher layer" 	2710
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames passed up to HL" 	3376
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames/sec sent" 	2.2583333333333
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"frames/sec rcvd" 	2.8133333333333
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"bits/sec sent" 	8373.4133333333
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"bits/sec rcvd" 	8540.5733333333
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"rx channel idle (%)" 	99.991279373333
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"rx channel utilization (%)" 	0.0087206266666667
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeAD4.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames sent" 	2347
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames rcvd" 	1687
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"bytes sent" 	183500
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"bytes rcvd" 	1158002
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames from higher layer" 	2347
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames passed up to HL" 	1687
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames/sec sent" 	1.9558333333333
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"frames/sec rcvd" 	1.4058333333333
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"bits/sec sent" 	1223.3333333333
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"bits/sec rcvd" 	7720.0133333333
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"rx channel idle (%)" 	99.992190013333
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"rx channel utilization (%)" 	0.0078099866666667
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames sent" 	1087
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames rcvd" 	1205
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"bytes sent" 	1132654
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"bytes rcvd" 	142190
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames from higher layer" 	1087
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames passed up to HL" 	1205
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames/sec sent" 	0.90583333333333
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"frames/sec rcvd" 	1.0041666666667
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"bits/sec sent" 	7551.0266666667
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"bits/sec rcvd" 	947.93333333333
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"rx channel idle (%)" 	99.9989878
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"rx channel utilization (%)" 	0.0010122
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames sent" 	61
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"bytes sent" 	7198
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"bytes rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames from higher layer" 	61
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames passed up to HL" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames/sec sent" 	0.050833333333333
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"frames/sec rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"bits/sec sent" 	47.986666666667
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"bits/sec rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"rx channel idle (%)" 	100
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"rx channel utilization (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ1.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames sent" 	2240
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames rcvd" 	1658
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"bytes sent" 	1148038
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"bytes rcvd" 	150076
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames from higher layer" 	2240
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames passed up to HL" 	1658
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames/sec sent" 	1.8666666666667
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"frames/sec rcvd" 	1.3816666666667
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"bits/sec sent" 	7653.5866666667
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"bits/sec rcvd" 	1000.5066666667
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"rx channel idle (%)" 	99.998911066667
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"rx channel utilization (%)" 	0.0010889333333333
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames sent" 	1058
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames rcvd" 	1058
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"bytes sent" 	124844
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"bytes rcvd" 	1102436
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames from higher layer" 	1058
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames passed up to HL" 	1058
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames/sec sent" 	0.88166666666667
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"frames/sec rcvd" 	0.88166666666667
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"bits/sec sent" 	832.29333333333
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"bits/sec rcvd" 	7349.5733333333
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"rx channel idle (%)" 	99.992594
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"rx channel utilization (%)" 	0.007406
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames sent" 	2
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"bytes sent" 	236
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"bytes rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames from higher layer" 	2
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames passed up to HL" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames/sec sent" 	0.0016666666666667
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"frames/sec rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"bits/sec sent" 	1.5733333333333
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"bits/sec rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"rx channel idle (%)" 	100
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"rx channel utilization (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ2.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames sent" 	2269
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames rcvd" 	1687
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"bytes sent" 	1178372
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"bytes rcvd" 	153614
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames from higher layer" 	2269
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames passed up to HL" 	1687
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames/sec sent" 	1.8908333333333
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"frames/sec rcvd" 	1.4058333333333
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"bits/sec sent" 	7855.8133333333
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"bits/sec rcvd" 	1024.0933333333
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"rx channel idle (%)" 	99.998885933333
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"rx channel utilization (%)" 	0.0011140666666667
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames sent" 	1087
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames rcvd" 	1087
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"bytes sent" 	128266
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"bytes rcvd" 	1132654
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames from higher layer" 	1087
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames passed up to HL" 	1087
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames/sec sent" 	0.90583333333333
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"frames/sec rcvd" 	0.90583333333333
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"bits/sec sent" 	855.10666666667
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"bits/sec rcvd" 	7551.0266666667
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"rx channel idle (%)" 	99.992391
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"rx channel utilization (%)" 	0.007609
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames sent" 	2
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"bytes sent" 	236
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"bytes rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames from higher layer" 	2
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames passed up to HL" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames/sec sent" 	0.0016666666666667
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"frames/sec rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"bits/sec sent" 	1.5733333333333
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"bits/sec rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"rx channel idle (%)" 	100
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"rx channel utilization (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ3.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames sent" 	3376
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames rcvd" 	2710
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"bytes sent" 	1281086
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"bytes rcvd" 	1256012
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames from higher layer" 	3376
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames passed up to HL" 	2710
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames/sec sent" 	2.8133333333333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"frames/sec rcvd" 	2.2583333333333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"bits/sec sent" 	8540.5733333333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"bits/sec rcvd" 	8373.4133333333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"rx channel idle (%)" 	99.991482053333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"rx channel utilization (%)" 	0.0085179466666667
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames sent" 	1052
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames rcvd" 	1052
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"bytes sent" 	124136
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"bytes rcvd" 	1096184
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames from higher layer" 	1052
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames passed up to HL" 	1052
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames/sec sent" 	0.87666666666667
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"frames/sec rcvd" 	0.87666666666667
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"bits/sec sent" 	827.57333333333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"bits/sec rcvd" 	7307.8933333333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"rx channel idle (%)" 	99.992636
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"rx channel utilization (%)" 	0.007364
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames sent" 	1058
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames rcvd" 	1171
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"bytes sent" 	1102436
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"bytes rcvd" 	138178
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames from higher layer" 	1058
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames passed up to HL" 	1171
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames/sec sent" 	0.88166666666667
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"frames/sec rcvd" 	0.97583333333333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"bits/sec sent" 	7349.5733333333
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"bits/sec rcvd" 	921.18666666667
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"rx channel idle (%)" 	99.99901636
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"rx channel utilization (%)" 	0.00098364
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ4.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames sent" 	2266
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames rcvd" 	1654
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"bytes sent" 	173618
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"bytes rcvd" 	1121636
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames from higher layer" 	2266
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames passed up to HL" 	1654
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames/sec sent" 	1.8883333333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"frames/sec rcvd" 	1.3783333333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"bits/sec sent" 	1157.4533333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"bits/sec rcvd" 	7477.5733333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"rx channel idle (%)" 	99.992434213333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"rx channel utilization (%)" 	0.0075657866666667
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames sent" 	2353
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames rcvd" 	1765
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"bytes sent" 	1253300
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"bytes rcvd" 	162434
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames from higher layer" 	2353
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames passed up to HL" 	1765
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames/sec sent" 	1.9608333333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"frames/sec rcvd" 	1.4708333333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"bits/sec sent" 	8355.3333333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"bits/sec rcvd" 	1082.8933333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"rx channel idle (%)" 	99.998822973333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"rx channel utilization (%)" 	0.0011770266666667
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames sent" 	3391
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames rcvd" 	2849
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"bytes sent" 	1282916
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"bytes rcvd" 	1363750
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames from higher layer" 	3391
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames passed up to HL" 	2849
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames/sec sent" 	2.8258333333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"frames/sec rcvd" 	2.3741666666667
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"bits/sec sent" 	8552.7733333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"bits/sec rcvd" 	9091.6666666667
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"rx channel idle (%)" 	99.990756386667
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"rx channel utilization (%)" 	0.0092436133333333
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ5.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames sent" 	1765
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames rcvd" 	2353
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"bytes sent" 	162434
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"bytes rcvd" 	1253300
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames from higher layer" 	1765
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames passed up to HL" 	2353
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames/sec sent" 	1.4708333333333
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"frames/sec rcvd" 	1.9608333333333
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"bits/sec sent" 	1082.8933333333
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"bits/sec rcvd" 	8355.3333333333
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"rx channel idle (%)" 	99.991519173333
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"rx channel utilization (%)" 	0.0084808266666667
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames sent" 	1171
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames rcvd" 	1200
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"bytes sent" 	1207246
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"bytes rcvd" 	141600
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames from higher layer" 	1171
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames passed up to HL" 	1200
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames/sec sent" 	0.97583333333333
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"frames/sec rcvd" 	1
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"bits/sec sent" 	8048.3066666667
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"bits/sec rcvd" 	944
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"rx channel idle (%)" 	99.998992
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"rx channel utilization (%)" 	0.001008
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames sent" 	1196
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames rcvd" 	3
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"bytes sent" 	41860
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"bytes rcvd" 	105
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames from higher layer" 	1196
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames passed up to HL" 	3
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames/sec sent" 	0.99666666666667
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"frames/sec rcvd" 	0.0025
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"bits/sec sent" 	279.06666666667
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"bits/sec rcvd" 	0.7
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"rx channel idle (%)" 	99.99999914
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"rx channel utilization (%)" 	8.6e-07
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ6.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames sent" 	2849
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames rcvd" 	3391
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"bytes sent" 	1363750
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"bytes rcvd" 	1282916
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames from higher layer" 	2849
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames passed up to HL" 	3391
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames/sec sent" 	2.3741666666667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"frames/sec rcvd" 	2.8258333333333
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"bits/sec sent" 	9091.6666666667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"bits/sec rcvd" 	8552.7733333333
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"rx channel idle (%)" 	99.991266373333
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"rx channel utilization (%)" 	0.0087336266666667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[0] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames sent" 	3
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames rcvd" 	1196
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"bytes sent" 	105
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"bytes rcvd" 	41860
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames from higher layer" 	3
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames passed up to HL" 	1196
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames/sec sent" 	0.0025
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"frames/sec rcvd" 	0.99666666666667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"bits/sec sent" 	0.7
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"bits/sec rcvd" 	279.06666666667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"rx channel idle (%)" 	99.999657146667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"rx channel utilization (%)" 	0.00034285333333333
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[1] 	backoffs 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"full duplex" 	1
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames sent" 	3392
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames rcvd" 	2872
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"bytes sent" 	1282951
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"bytes rcvd" 	1367252
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames from higher layer" 	3392
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames passed up to HL" 	2872
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames/sec sent" 	2.8266666666667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"frames/sec rcvd" 	2.3933333333333
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"bits/sec sent" 	8553.0066666667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"bits/sec rcvd" 	9115.0133333333
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"rx channel idle (%)" 	99.990731813333
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"rx channel utilization (%)" 	0.0092681866666667
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	collisions 	0
+scalar CompleteProviderNetwork1.BridgeQ7.mac[2] 	backoffs 	0
+scalar CompleteProviderNetwork1.hostA.application 	"packets sent" 	1205
+scalar CompleteProviderNetwork1.hostA.application 	"packets rcvd" 	1087
+scalar CompleteProviderNetwork1.hostA.application 	"end-to-end delay mean" 	0.00086179999000002
+scalar CompleteProviderNetwork1.hostA.application 	"end-to-end delay stddev" 	0
+scalar CompleteProviderNetwork1.hostA.application 	"end-to-end delay min" 	0.00086179999
+scalar CompleteProviderNetwork1.hostA.application 	"end-to-end delay max" 	0.00086179999
+scalar CompleteProviderNetwork1.hostA.linklayer 	"packets from higher layer" 	1205
+scalar CompleteProviderNetwork1.hostA.linklayer 	"frames from MAC" 	1087
+scalar CompleteProviderNetwork1.hostA.linklayer 	"packets passed up" 	1087
+scalar CompleteProviderNetwork1.hostA.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostA.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostA.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostA.mac 	"frames sent" 	1205
+scalar CompleteProviderNetwork1.hostA.mac 	"frames rcvd" 	1087
+scalar CompleteProviderNetwork1.hostA.mac 	"bytes sent" 	142190
+scalar CompleteProviderNetwork1.hostA.mac 	"bytes rcvd" 	1132654
+scalar CompleteProviderNetwork1.hostA.mac 	"frames from higher layer" 	1205
+scalar CompleteProviderNetwork1.hostA.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostA.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostA.mac 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.hostA.mac 	"frames passed up to HL" 	1087
+scalar CompleteProviderNetwork1.hostA.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostA.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostA.mac 	"frames/sec sent" 	1.0041666666667
+scalar CompleteProviderNetwork1.hostA.mac 	"frames/sec rcvd" 	0.90583333333333
+scalar CompleteProviderNetwork1.hostA.mac 	"bits/sec sent" 	947.93333333333
+scalar CompleteProviderNetwork1.hostA.mac 	"bits/sec rcvd" 	7551.0266666667
+scalar CompleteProviderNetwork1.hostA.mac 	"rx channel idle (%)" 	99.992391
+scalar CompleteProviderNetwork1.hostA.mac 	"rx channel utilization (%)" 	0.007609
+scalar CompleteProviderNetwork1.hostA.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostA.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostA.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostB.application 	"packets sent" 	0
+scalar CompleteProviderNetwork1.hostB.application 	"packets rcvd" 	0
+scalar CompleteProviderNetwork1.hostB.application 	"end-to-end delay mean" 	0
+scalar CompleteProviderNetwork1.hostB.application 	"end-to-end delay stddev" 	-nan
+scalar CompleteProviderNetwork1.hostB.application 	"end-to-end delay min" 	0
+scalar CompleteProviderNetwork1.hostB.application 	"end-to-end delay max" 	0
+scalar CompleteProviderNetwork1.hostB.linklayer 	"packets from higher layer" 	0
+scalar CompleteProviderNetwork1.hostB.linklayer 	"frames from MAC" 	0
+scalar CompleteProviderNetwork1.hostB.linklayer 	"packets passed up" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostB.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostB.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostB.mac 	"frames sent" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"frames rcvd" 	61
+scalar CompleteProviderNetwork1.hostB.mac 	"bytes sent" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"bytes rcvd" 	7198
+scalar CompleteProviderNetwork1.hostB.mac 	"frames from higher layer" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"frames dropped (not for us)" 	61
+scalar CompleteProviderNetwork1.hostB.mac 	"frames passed up to HL" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"frames/sec sent" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"frames/sec rcvd" 	0.050833333333333
+scalar CompleteProviderNetwork1.hostB.mac 	"bits/sec sent" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	"bits/sec rcvd" 	47.986666666667
+scalar CompleteProviderNetwork1.hostB.mac 	"rx channel idle (%)" 	99.99994876
+scalar CompleteProviderNetwork1.hostB.mac 	"rx channel utilization (%)" 	5.124e-05
+scalar CompleteProviderNetwork1.hostB.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostB.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostB.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostC.application 	"packets sent" 	1058
+scalar CompleteProviderNetwork1.hostC.application 	"packets rcvd" 	1058
+scalar CompleteProviderNetwork1.hostC.application 	"end-to-end delay mean" 	0.00012259999
+scalar CompleteProviderNetwork1.hostC.application 	"end-to-end delay stddev" 	1.2404043267349e-11
+scalar CompleteProviderNetwork1.hostC.application 	"end-to-end delay min" 	0.00012259999
+scalar CompleteProviderNetwork1.hostC.application 	"end-to-end delay max" 	0.00012259999
+scalar CompleteProviderNetwork1.hostC.linklayer 	"packets from higher layer" 	1058
+scalar CompleteProviderNetwork1.hostC.linklayer 	"frames from MAC" 	1058
+scalar CompleteProviderNetwork1.hostC.linklayer 	"packets passed up" 	1058
+scalar CompleteProviderNetwork1.hostC.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostC.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostC.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostC.mac 	"frames sent" 	1058
+scalar CompleteProviderNetwork1.hostC.mac 	"frames rcvd" 	1058
+scalar CompleteProviderNetwork1.hostC.mac 	"bytes sent" 	1102436
+scalar CompleteProviderNetwork1.hostC.mac 	"bytes rcvd" 	124844
+scalar CompleteProviderNetwork1.hostC.mac 	"frames from higher layer" 	1058
+scalar CompleteProviderNetwork1.hostC.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostC.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostC.mac 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.hostC.mac 	"frames passed up to HL" 	1058
+scalar CompleteProviderNetwork1.hostC.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostC.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostC.mac 	"frames/sec sent" 	0.88166666666667
+scalar CompleteProviderNetwork1.hostC.mac 	"frames/sec rcvd" 	0.88166666666667
+scalar CompleteProviderNetwork1.hostC.mac 	"bits/sec sent" 	7349.5733333333
+scalar CompleteProviderNetwork1.hostC.mac 	"bits/sec rcvd" 	832.29333333333
+scalar CompleteProviderNetwork1.hostC.mac 	"rx channel idle (%)" 	99.99911128
+scalar CompleteProviderNetwork1.hostC.mac 	"rx channel utilization (%)" 	0.00088872
+scalar CompleteProviderNetwork1.hostC.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostC.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostC.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostD.application 	"packets sent" 	0
+scalar CompleteProviderNetwork1.hostD.application 	"packets rcvd" 	0
+scalar CompleteProviderNetwork1.hostD.application 	"end-to-end delay mean" 	0
+scalar CompleteProviderNetwork1.hostD.application 	"end-to-end delay stddev" 	-nan
+scalar CompleteProviderNetwork1.hostD.application 	"end-to-end delay min" 	0
+scalar CompleteProviderNetwork1.hostD.application 	"end-to-end delay max" 	0
+scalar CompleteProviderNetwork1.hostD.linklayer 	"packets from higher layer" 	0
+scalar CompleteProviderNetwork1.hostD.linklayer 	"frames from MAC" 	0
+scalar CompleteProviderNetwork1.hostD.linklayer 	"packets passed up" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostD.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostD.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostD.mac 	"frames sent" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"frames rcvd" 	2
+scalar CompleteProviderNetwork1.hostD.mac 	"bytes sent" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"bytes rcvd" 	236
+scalar CompleteProviderNetwork1.hostD.mac 	"frames from higher layer" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"frames dropped (not for us)" 	2
+scalar CompleteProviderNetwork1.hostD.mac 	"frames passed up to HL" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"frames/sec sent" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"frames/sec rcvd" 	0.0016666666666667
+scalar CompleteProviderNetwork1.hostD.mac 	"bits/sec sent" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	"bits/sec rcvd" 	1.5733333333333
+scalar CompleteProviderNetwork1.hostD.mac 	"rx channel idle (%)" 	99.99999832
+scalar CompleteProviderNetwork1.hostD.mac 	"rx channel utilization (%)" 	1.68e-06
+scalar CompleteProviderNetwork1.hostD.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostD.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostD.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostE.application 	"packets sent" 	1087
+scalar CompleteProviderNetwork1.hostE.application 	"packets rcvd" 	1087
+scalar CompleteProviderNetwork1.hostE.application 	"end-to-end delay mean" 	0.00012259999
+scalar CompleteProviderNetwork1.hostE.application 	"end-to-end delay stddev" 	1.2489649101128e-11
+scalar CompleteProviderNetwork1.hostE.application 	"end-to-end delay min" 	0.00012259999
+scalar CompleteProviderNetwork1.hostE.application 	"end-to-end delay max" 	0.00012259999
+scalar CompleteProviderNetwork1.hostE.linklayer 	"packets from higher layer" 	1087
+scalar CompleteProviderNetwork1.hostE.linklayer 	"frames from MAC" 	1087
+scalar CompleteProviderNetwork1.hostE.linklayer 	"packets passed up" 	1087
+scalar CompleteProviderNetwork1.hostE.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostE.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostE.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostE.mac 	"frames sent" 	1087
+scalar CompleteProviderNetwork1.hostE.mac 	"frames rcvd" 	1087
+scalar CompleteProviderNetwork1.hostE.mac 	"bytes sent" 	1132654
+scalar CompleteProviderNetwork1.hostE.mac 	"bytes rcvd" 	128266
+scalar CompleteProviderNetwork1.hostE.mac 	"frames from higher layer" 	1087
+scalar CompleteProviderNetwork1.hostE.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostE.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostE.mac 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.hostE.mac 	"frames passed up to HL" 	1087
+scalar CompleteProviderNetwork1.hostE.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostE.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostE.mac 	"frames/sec sent" 	0.90583333333333
+scalar CompleteProviderNetwork1.hostE.mac 	"frames/sec rcvd" 	0.90583333333333
+scalar CompleteProviderNetwork1.hostE.mac 	"bits/sec sent" 	7551.0266666667
+scalar CompleteProviderNetwork1.hostE.mac 	"bits/sec rcvd" 	855.10666666667
+scalar CompleteProviderNetwork1.hostE.mac 	"rx channel idle (%)" 	99.99908692
+scalar CompleteProviderNetwork1.hostE.mac 	"rx channel utilization (%)" 	0.00091308
+scalar CompleteProviderNetwork1.hostE.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostE.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostE.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostF.application 	"packets sent" 	0
+scalar CompleteProviderNetwork1.hostF.application 	"packets rcvd" 	0
+scalar CompleteProviderNetwork1.hostF.application 	"end-to-end delay mean" 	0
+scalar CompleteProviderNetwork1.hostF.application 	"end-to-end delay stddev" 	-nan
+scalar CompleteProviderNetwork1.hostF.application 	"end-to-end delay min" 	0
+scalar CompleteProviderNetwork1.hostF.application 	"end-to-end delay max" 	0
+scalar CompleteProviderNetwork1.hostF.linklayer 	"packets from higher layer" 	0
+scalar CompleteProviderNetwork1.hostF.linklayer 	"frames from MAC" 	0
+scalar CompleteProviderNetwork1.hostF.linklayer 	"packets passed up" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostF.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostF.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostF.mac 	"frames sent" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"frames rcvd" 	2
+scalar CompleteProviderNetwork1.hostF.mac 	"bytes sent" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"bytes rcvd" 	236
+scalar CompleteProviderNetwork1.hostF.mac 	"frames from higher layer" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"frames dropped (not for us)" 	2
+scalar CompleteProviderNetwork1.hostF.mac 	"frames passed up to HL" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"frames/sec sent" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"frames/sec rcvd" 	0.0016666666666667
+scalar CompleteProviderNetwork1.hostF.mac 	"bits/sec sent" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	"bits/sec rcvd" 	1.5733333333333
+scalar CompleteProviderNetwork1.hostF.mac 	"rx channel idle (%)" 	99.99999832
+scalar CompleteProviderNetwork1.hostF.mac 	"rx channel utilization (%)" 	1.68e-06
+scalar CompleteProviderNetwork1.hostF.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostF.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostF.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostG.application 	"packets sent" 	1052
+scalar CompleteProviderNetwork1.hostG.application 	"packets rcvd" 	1052
+scalar CompleteProviderNetwork1.hostG.application 	"end-to-end delay mean" 	0.000108579991
+scalar CompleteProviderNetwork1.hostG.application 	"end-to-end delay stddev" 	0
+scalar CompleteProviderNetwork1.hostG.application 	"end-to-end delay min" 	0.000108579991
+scalar CompleteProviderNetwork1.hostG.application 	"end-to-end delay max" 	0.000108579991
+scalar CompleteProviderNetwork1.hostG.linklayer 	"packets from higher layer" 	1052
+scalar CompleteProviderNetwork1.hostG.linklayer 	"frames from MAC" 	1052
+scalar CompleteProviderNetwork1.hostG.linklayer 	"packets passed up" 	1052
+scalar CompleteProviderNetwork1.hostG.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostG.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostG.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostG.mac 	"frames sent" 	1052
+scalar CompleteProviderNetwork1.hostG.mac 	"frames rcvd" 	1052
+scalar CompleteProviderNetwork1.hostG.mac 	"bytes sent" 	1096184
+scalar CompleteProviderNetwork1.hostG.mac 	"bytes rcvd" 	124136
+scalar CompleteProviderNetwork1.hostG.mac 	"frames from higher layer" 	1052
+scalar CompleteProviderNetwork1.hostG.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostG.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostG.mac 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.hostG.mac 	"frames passed up to HL" 	1052
+scalar CompleteProviderNetwork1.hostG.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostG.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostG.mac 	"frames/sec sent" 	0.87666666666667
+scalar CompleteProviderNetwork1.hostG.mac 	"frames/sec rcvd" 	0.87666666666667
+scalar CompleteProviderNetwork1.hostG.mac 	"bits/sec sent" 	7307.8933333333
+scalar CompleteProviderNetwork1.hostG.mac 	"bits/sec rcvd" 	827.57333333333
+scalar CompleteProviderNetwork1.hostG.mac 	"rx channel idle (%)" 	99.99911632
+scalar CompleteProviderNetwork1.hostG.mac 	"rx channel utilization (%)" 	0.00088368
+scalar CompleteProviderNetwork1.hostG.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostG.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostG.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostH.application 	"packets sent" 	1171
+scalar CompleteProviderNetwork1.hostH.application 	"packets rcvd" 	1058
+scalar CompleteProviderNetwork1.hostH.application 	"end-to-end delay mean" 	0.00086181335515219
+scalar CompleteProviderNetwork1.hostH.application 	"end-to-end delay stddev" 	4.3472709423631e-07
+scalar CompleteProviderNetwork1.hostH.application 	"end-to-end delay min" 	0.00086179999
+scalar CompleteProviderNetwork1.hostH.application 	"end-to-end delay max" 	0.000875940321
+scalar CompleteProviderNetwork1.hostH.linklayer 	"packets from higher layer" 	1171
+scalar CompleteProviderNetwork1.hostH.linklayer 	"frames from MAC" 	1058
+scalar CompleteProviderNetwork1.hostH.linklayer 	"packets passed up" 	1058
+scalar CompleteProviderNetwork1.hostH.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostH.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostH.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostH.mac 	"frames sent" 	1171
+scalar CompleteProviderNetwork1.hostH.mac 	"frames rcvd" 	1058
+scalar CompleteProviderNetwork1.hostH.mac 	"bytes sent" 	138178
+scalar CompleteProviderNetwork1.hostH.mac 	"bytes rcvd" 	1102436
+scalar CompleteProviderNetwork1.hostH.mac 	"frames from higher layer" 	1171
+scalar CompleteProviderNetwork1.hostH.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostH.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostH.mac 	"frames dropped (not for us)" 	0
+scalar CompleteProviderNetwork1.hostH.mac 	"frames passed up to HL" 	1058
+scalar CompleteProviderNetwork1.hostH.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostH.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostH.mac 	"frames/sec sent" 	0.97583333333333
+scalar CompleteProviderNetwork1.hostH.mac 	"frames/sec rcvd" 	0.88166666666667
+scalar CompleteProviderNetwork1.hostH.mac 	"bits/sec sent" 	921.18666666667
+scalar CompleteProviderNetwork1.hostH.mac 	"bits/sec rcvd" 	7349.5733333333
+scalar CompleteProviderNetwork1.hostH.mac 	"rx channel idle (%)" 	99.992594
+scalar CompleteProviderNetwork1.hostH.mac 	"rx channel utilization (%)" 	0.007406
+scalar CompleteProviderNetwork1.hostH.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostH.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostH.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostI.application 	"packets sent" 	1200
+scalar CompleteProviderNetwork1.hostI.application 	"packets rcvd" 	1157
+scalar CompleteProviderNetwork1.hostI.application 	"end-to-end delay mean" 	0.000341199996
+scalar CompleteProviderNetwork1.hostI.application 	"end-to-end delay stddev" 	0
+scalar CompleteProviderNetwork1.hostI.application 	"end-to-end delay min" 	0.000341199996
+scalar CompleteProviderNetwork1.hostI.application 	"end-to-end delay max" 	0.000341199996
+scalar CompleteProviderNetwork1.hostI.linklayer 	"packets from higher layer" 	1200
+scalar CompleteProviderNetwork1.hostI.linklayer 	"frames from MAC" 	1157
+scalar CompleteProviderNetwork1.hostI.linklayer 	"packets passed up" 	1157
+scalar CompleteProviderNetwork1.hostI.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostI.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostI.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostI.mac 	"frames sent" 	1200
+scalar CompleteProviderNetwork1.hostI.mac 	"frames rcvd" 	1171
+scalar CompleteProviderNetwork1.hostI.mac 	"bytes sent" 	141600
+scalar CompleteProviderNetwork1.hostI.mac 	"bytes rcvd" 	1207246
+scalar CompleteProviderNetwork1.hostI.mac 	"frames from higher layer" 	1200
+scalar CompleteProviderNetwork1.hostI.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostI.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostI.mac 	"frames dropped (not for us)" 	14
+scalar CompleteProviderNetwork1.hostI.mac 	"frames passed up to HL" 	1157
+scalar CompleteProviderNetwork1.hostI.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostI.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostI.mac 	"frames/sec sent" 	1
+scalar CompleteProviderNetwork1.hostI.mac 	"frames/sec rcvd" 	0.97583333333333
+scalar CompleteProviderNetwork1.hostI.mac 	"bits/sec sent" 	944
+scalar CompleteProviderNetwork1.hostI.mac 	"bits/sec rcvd" 	8048.3066666667
+scalar CompleteProviderNetwork1.hostI.mac 	"rx channel idle (%)" 	99.99188924
+scalar CompleteProviderNetwork1.hostI.mac 	"rx channel utilization (%)" 	0.00811076
+scalar CompleteProviderNetwork1.hostI.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostI.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostI.mac 	backoffs 	0
+scalar CompleteProviderNetwork1.hostJ.application 	"packets sent" 	2272
+scalar CompleteProviderNetwork1.hostJ.application 	"packets rcvd" 	2209
+scalar CompleteProviderNetwork1.hostJ.application 	"end-to-end delay mean" 	0.00039243712546355
+scalar CompleteProviderNetwork1.hostJ.application 	"end-to-end delay stddev" 	0.00036381749400052
+scalar CompleteProviderNetwork1.hostJ.application 	"end-to-end delay min" 	4.5519996e-05
+scalar CompleteProviderNetwork1.hostJ.application 	"end-to-end delay max" 	0.000801128195
+scalar CompleteProviderNetwork1.hostJ.linklayer 	"packets from higher layer" 	2272
+scalar CompleteProviderNetwork1.hostJ.linklayer 	"frames from MAC" 	2209
+scalar CompleteProviderNetwork1.hostJ.linklayer 	"packets passed up" 	2209
+scalar CompleteProviderNetwork1.hostJ.mac 	"simulated time" 	1200
+scalar CompleteProviderNetwork1.hostJ.mac 	"txrate (Mb)" 	100
+scalar CompleteProviderNetwork1.hostJ.mac 	"full duplex" 	1
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames sent" 	2872
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames rcvd" 	3392
+scalar CompleteProviderNetwork1.hostJ.mac 	"bytes sent" 	1367252
+scalar CompleteProviderNetwork1.hostJ.mac 	"bytes rcvd" 	1282951
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames from higher layer" 	2872
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames from higher layer dropped (iface down)" 	0
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames dropped (bit error)" 	0
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames dropped (not for us)" 	1183
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames passed up to HL" 	2209
+scalar CompleteProviderNetwork1.hostJ.mac 	"PAUSE frames sent" 	0
+scalar CompleteProviderNetwork1.hostJ.mac 	"PAUSE frames rcvd" 	0
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames/sec sent" 	2.3933333333333
+scalar CompleteProviderNetwork1.hostJ.mac 	"frames/sec rcvd" 	2.8266666666667
+scalar CompleteProviderNetwork1.hostJ.mac 	"bits/sec sent" 	9115.0133333333
+scalar CompleteProviderNetwork1.hostJ.mac 	"bits/sec rcvd" 	8553.0066666667
+scalar CompleteProviderNetwork1.hostJ.mac 	"rx channel idle (%)" 	99.991266086667
+scalar CompleteProviderNetwork1.hostJ.mac 	"rx channel utilization (%)" 	0.0087339133333333
+scalar CompleteProviderNetwork1.hostJ.mac 	"rx channel collision (%)" 	0
+scalar CompleteProviderNetwork1.hostJ.mac 	collisions 	0
+scalar CompleteProviderNetwork1.hostJ.mac 	backoffs 	0

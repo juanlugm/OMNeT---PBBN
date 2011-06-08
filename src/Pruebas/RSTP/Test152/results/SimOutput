@@ -1,0 +1,223 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test152, run #0...
+Scenario: $repetition=0
+Assigned runID=Test152-0-20110218-11:50:40-32715
+Setting up network `CompleteNetwork'...
+Initializing...
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 3 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+
+switchBEB5
+RSTP state
+Priority: 1046767955
+Local MAC: 00-00-00-00-00-00
+Port State/Role: 
+Per port best source. Root/Src
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+switchBEB6
+RSTP state
+Priority: 0
+Local MAC: 00-00-00-00-00-00
+Port State/Role: 
+Per port best source. Root/Src
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 3 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+switchBEB7
+RSTP state
+Priority: 1765542153
+Local MAC: 00-00-00-00-00-00
+Port State/Role: 
+Per port best source. Root/Src
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 151   present: 151   in FES: 64
+** Event #7694   T=60   Elapsed: 0.040s (0m 00s)  100% completed
+     Speed:     ev/sec=192325   simsec/sec=1500   ev/simsec=128.217
+     Messages:  created: 2949   present: 115   in FES: 28
+
+<!> Simulation time limit reached -- simulation stopped at event #7694, t=60.
+
+
+Calling finish() at end of Run #0...
+
+End.

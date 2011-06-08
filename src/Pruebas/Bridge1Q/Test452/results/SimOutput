@@ -1,0 +1,139 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test452, run #0...
+Scenario: $repetition=0
+Assigned runID=Test452-0-20110218-11:50:49-560
+Setting up network `Bridge1QNetwork2'...
+Initializing...
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+Bridge1
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-01
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+
+Bridge2
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-03
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-03/0A-AA-00-00-00-03
+0A-AA-00-00-00-03/0A-AA-00-00-00-03
+0A-AA-00-00-00-03/0A-AA-00-00-00-03
+0A-AA-00-00-00-03/0A-AA-00-00-00-03
+
+Bridge3
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-07
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-07/0A-AA-00-00-00-07
+0A-AA-00-00-00-07/0A-AA-00-00-00-07
+0A-AA-00-00-00-07/0A-AA-00-00-00-07
+
+Bridge4
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0A
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-0A/0A-AA-00-00-00-0A
+0A-AA-00-00-00-0A/0A-AA-00-00-00-0A
+0A-AA-00-00-00-0A/0A-AA-00-00-00-0A
+
+Bridge5
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0D
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+
+Bridge6
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-11
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+Bridge MAC address 0A-AA-00-00-00-01
+Bridge MAC address 0A-AA-00-00-00-03
+Bridge MAC address 0A-AA-00-00-00-07
+Bridge MAC address 0A-AA-00-00-00-0A
+Bridge MAC address 0A-AA-00-00-00-0D
+Bridge MAC address 0A-AA-00-00-00-11
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 204   present: 204   in FES: 78
+** Event #26108   T=60   Elapsed: 0.232s (0m 00s)  100% completed
+     Speed:     ev/sec=112530   simsec/sec=258.621   ev/simsec=435.117
+     Messages:  created: 8438   present: 156   in FES: 30
+
+<!> Simulation time limit reached -- simulation stopped at event #26108, t=60.
+
+
+Calling finish() at end of Run #0...
+
+End.

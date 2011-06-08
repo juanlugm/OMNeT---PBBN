@@ -1,0 +1,17 @@
+version 2
+run Test154-0-20110218-11:50:41-32737
+attr configname Test154
+attr datetime 20110218-11:50:41
+attr experiment Test154
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network NetworkWithBK
+attr processid 32737
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+

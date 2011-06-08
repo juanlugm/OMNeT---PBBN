@@ -1,0 +1,390 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test252, run #0...
+Scenario: $repetition=0
+Assigned runID=Test252-0-20110218-11:50:44-381
+Setting up network `DiffusionTreeTest'...
+Initializing...
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 3 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+
+Port: 3  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+T0
+Sent messages1
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T0.info
+Autoconfig: advertising our settings: 100Mb, duplex
+T1
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T1.info
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+T2
+Sent messages1
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T2.info
+Autoconfig: advertising our settings: 100Mb, duplex
+T3
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T3.info
+Autoconfig: advertising our settings: 100Mb, duplex
+T4
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T4.info
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+T5
+Sent messages1
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T5.info
+Autoconfig: advertising our settings: 100Mb, duplex
+
+BEB1
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-01
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+
+BEB2
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-05
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-05/0A-AA-00-00-00-05
+0A-AA-00-00-00-05/0A-AA-00-00-00-05
+0A-AA-00-00-00-05/0A-AA-00-00-00-05
+
+BEB3
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-08
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-08/0A-AA-00-00-00-08
+0A-AA-00-00-00-08/0A-AA-00-00-00-08
+0A-AA-00-00-00-08/0A-AA-00-00-00-08
+
+BEB4
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0B
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-0B/0A-AA-00-00-00-0B
+0A-AA-00-00-00-0B/0A-AA-00-00-00-0B
+
+BEB5
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0D
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+
+BEB6
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0F
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-0F/0A-AA-00-00-00-0F
+0A-AA-00-00-00-0F/0A-AA-00-00-00-0F
+
+BEB7
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-11
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+Bridge MAC address 0A-AA-00-00-00-01
+Bridge MAC address 0A-AA-00-00-00-05
+Bridge MAC address 0A-AA-00-00-00-08
+Bridge MAC address 0A-AA-00-00-00-0B
+Bridge MAC address 0A-AA-00-00-00-0D
+Bridge MAC address 0A-AA-00-00-00-0F
+Bridge MAC address 0A-AA-00-00-00-11
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 202   present: 202   in FES: 79
+** Event #10062   T=59   Elapsed: 0.091s (0m 00s)  100% completed
+     Speed:     ev/sec=110560   simsec/sec=648.352   ev/simsec=170.525
+     Messages:  created: 3550   present: 157   in FES: 28
+
+<!> Simulation time limit reached -- simulation stopped at event #10062, t=59.
+
+
+Calling finish() at end of Run #0...
+
+End.

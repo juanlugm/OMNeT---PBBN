@@ -1,0 +1,4 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "Bridge1ADNetwork" "Bridge1ADNetwork" "2" "607x360+480+377:normal"
+inspector "Bridge1ADNetwork2" "Bridge1ADNetwork2" "2" "607x360+480+377:normal"
+

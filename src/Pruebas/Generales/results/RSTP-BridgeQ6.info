@@ -1,0 +1,19 @@
+BridgeQ6
+Priority 128
+Local Address 0A-AA-00-00-00-6D
+Root Gate 0
+*******ROOT BPDU INFO***********
+Root Priority 128
+Root MAC 0A-AA-00-00-00-6A
+Cost 1
+Src Priority 128
+Src MAC 0A-AA-00-00-00-6A
+Src Tx Gate Priority 0
+Src Tx Gate 1
+********************************
+***********PORTSTATE************
+Root / Forwarding
+Best BPDU: Root 0A-AA-00-00-00-6A  / Src 0A-AA-00-00-00-6A
+
+Designated / Forwarding (Client)
+Designated / Forwarding

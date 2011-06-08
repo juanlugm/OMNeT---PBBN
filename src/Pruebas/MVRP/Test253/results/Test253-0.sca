@@ -1,0 +1,17 @@
+version 2
+run Test253-0-20110218-11:50:45-397
+attr configname Test253
+attr datetime 20110218-11:50:45
+attr experiment Test253
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network DiffusionTreeTest
+attr processid 397
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+

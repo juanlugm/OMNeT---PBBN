@@ -1,0 +1,88 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test122, run #0...
+Scenario: $repetition=0
+Assigned runID=Test122-0-20110218-11:50:39-32674
+Setting up network `BEB1Tester4'...
+Initializing...
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 3 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+BPDU
+T0
+Sent messages1
+Received messages 0
+BPDU 0
+Autoconfig: advertising our settings: 100Mb, duplex
+T1
+Sent messages0
+Received messages 0
+BPDU 0
+Autoconfig: advertising our settings: 100Mb, duplex
+T2
+Sent messages0
+Received messages 0
+BPDU 0
+Autoconfig: advertising our settings: 100Mb, duplex
+BPDU
+BPDU
+BPDU
+BPDU
+BPDU
+T3
+Sent messages5
+Received messages 0
+BPDU 0
+Autoconfig: advertising our settings: 100Mb, duplex
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 71   present: 71   in FES: 26
+** Event #269   T=9   Elapsed: 0.001s (0m 00s)  100% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 156   present: 52   in FES: 5
+
+<!> Simulation time limit reached -- simulation stopped at event #269, t=9.
+
+
+Calling finish() at end of Run #0...
+
+End.

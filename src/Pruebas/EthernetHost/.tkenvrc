@@ -1,0 +1,4 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "EtherHostEthernetHost" "EtherHostEthernetHost" "2" "648x360+306+221:normal"
+inspector "EthernetHostTester" "EthernetHostTester" "2" "607x360+257+225:normal"
+

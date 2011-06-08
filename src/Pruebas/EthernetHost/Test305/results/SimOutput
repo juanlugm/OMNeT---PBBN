@@ -1,0 +1,34 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test305, run #0...
+Scenario: $repetition=0
+Assigned runID=Test305-0-20110218-11:50:46-433
+Setting up network `EthernetHostTester'...
+Initializing...
+Autoconfig: advertising our settings: 100Mb, duplex
+T0
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T0.info
+Autoconfig: advertising our settings: 100Mb, duplex
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 18   present: 18   in FES: 6
+** Event #60   T=4.000001   Elapsed: 0.000s (0m 00s)  114% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 48   present: 20   in FES: 3
+
+<!> Simulation time limit reached -- simulation stopped at event #60, t=4.000001.
+
+
+Calling finish() at end of Run #0...
+
+End.

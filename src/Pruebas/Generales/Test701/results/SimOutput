@@ -1,0 +1,631 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test701, run #0...
+Scenario: $repetition=0
+Assigned runID=Test701-0-20110218-11:50:57-963
+Setting up network `CompleteProviderNetwork1'...
+Initializing...
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 3 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+
+Port: 3  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+
+RelayTable
+BVid	ISid    MAC    Gate    Inserted
+
+Port: 0  Registered ISIDs:  1  2  3  4
+
+Port: 1  Registered ISIDs:  1  2  3  4
+
+Port: 2  Registered ISIDs:  1  2  3  4
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Registered CVIDs. 
+
+
+Reading PortFilt info 1
+Registered CVIDs. 
+1
+
+
+Reading PortFilt info 2
+Registered CVIDs. 
+2
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Registered CVIDs. 
+
+
+Reading PortFilt info 1
+Registered CVIDs. 
+1
+
+
+Reading PortFilt info 2
+Registered CVIDs. 
+2
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Registered CVIDs. 
+
+
+Reading PortFilt info 1
+Registered CVIDs. 
+1
+
+
+Reading PortFilt info 2
+Registered CVIDs. 
+2
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Registered CVIDs. 
+
+
+Reading PortFilt info 1
+Registered CVIDs. 
+1
+
+
+Reading PortFilt info 2
+Registered CVIDs. 
+2
+3
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+BEB1
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-01
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+
+BEB2
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-04
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-04/0A-AA-00-00-00-04
+0A-AA-00-00-00-04/0A-AA-00-00-00-04
+0A-AA-00-00-00-04/0A-AA-00-00-00-04
+0A-AA-00-00-00-04/0A-AA-00-00-00-04
+
+BEB3
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-08
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-08/0A-AA-00-00-00-08
+0A-AA-00-00-00-08/0A-AA-00-00-00-08
+0A-AA-00-00-00-08/0A-AA-00-00-00-08
+
+BEB4
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0B
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-0B/0A-AA-00-00-00-0B
+0A-AA-00-00-00-0B/0A-AA-00-00-00-0B
+0A-AA-00-00-00-0B/0A-AA-00-00-00-0B
+
+BEB5
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0E
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-0E/0A-AA-00-00-00-0E
+0A-AA-00-00-00-0E/0A-AA-00-00-00-0E
+0A-AA-00-00-00-0E/0A-AA-00-00-00-0E
+
+BEB6
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-11
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+
+BridgeAD1
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-14
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-14/0A-AA-00-00-00-14
+0A-AA-00-00-00-14/0A-AA-00-00-00-14
+0A-AA-00-00-00-14/0A-AA-00-00-00-14
+
+BridgeAD2
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-17
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-17/0A-AA-00-00-00-17
+0A-AA-00-00-00-17/0A-AA-00-00-00-17
+0A-AA-00-00-00-17/0A-AA-00-00-00-17
+
+BridgeAD3
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-1A
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-1A/0A-AA-00-00-00-1A
+0A-AA-00-00-00-1A/0A-AA-00-00-00-1A
+0A-AA-00-00-00-1A/0A-AA-00-00-00-1A
+
+BridgeAD4
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-1D
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-1D/0A-AA-00-00-00-1D
+0A-AA-00-00-00-1D/0A-AA-00-00-00-1D
+0A-AA-00-00-00-1D/0A-AA-00-00-00-1D
+
+BridgeQ1
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-20
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-20/0A-AA-00-00-00-20
+0A-AA-00-00-00-20/0A-AA-00-00-00-20
+0A-AA-00-00-00-20/0A-AA-00-00-00-20
+
+BridgeQ2
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-23
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-23/0A-AA-00-00-00-23
+0A-AA-00-00-00-23/0A-AA-00-00-00-23
+0A-AA-00-00-00-23/0A-AA-00-00-00-23
+
+BridgeQ3
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-26
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-26/0A-AA-00-00-00-26
+0A-AA-00-00-00-26/0A-AA-00-00-00-26
+0A-AA-00-00-00-26/0A-AA-00-00-00-26
+
+BridgeQ4
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-29
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+2 Forwarding  Designated (Client)
+Per port best source. Root/Src
+0A-AA-00-00-00-29/0A-AA-00-00-00-29
+0A-AA-00-00-00-29/0A-AA-00-00-00-29
+0A-AA-00-00-00-29/0A-AA-00-00-00-29
+
+BridgeQ5
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-2C
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-2C/0A-AA-00-00-00-2C
+0A-AA-00-00-00-2C/0A-AA-00-00-00-2C
+0A-AA-00-00-00-2C/0A-AA-00-00-00-2C
+
+BridgeQ6
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-2F
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-2F/0A-AA-00-00-00-2F
+0A-AA-00-00-00-2F/0A-AA-00-00-00-2F
+0A-AA-00-00-00-2F/0A-AA-00-00-00-2F
+
+BridgeQ7
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-32
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-32/0A-AA-00-00-00-32
+0A-AA-00-00-00-32/0A-AA-00-00-00-32
+0A-AA-00-00-00-32/0A-AA-00-00-00-32
+Bridge MAC address 0A-AA-00-00-00-01
+Bridge MAC address 0A-AA-00-00-00-04
+Bridge MAC address 0A-AA-00-00-00-08
+
+
+Reading IComponent info0
+************
+0A-AA-00-00-00-08
+***[ITAGTABLE INFO]*** 
+ISid: 3
+   Local:
+      Gate: 0 SVid 2
+   Remote:
+************************
+Bridge MAC address 0A-AA-00-00-00-0B
+Bridge MAC address 0A-AA-00-00-00-0E
+
+
+Reading IComponent info0
+************
+0A-AA-00-00-00-0E
+***[ITAGTABLE INFO]*** 
+ISid: 3
+   Local:
+      Gate: 0 SVid 5
+   Remote:
+************************
+Bridge MAC address 0A-AA-00-00-00-11
+
+
+Reading IComponent info0
+************
+0A-AA-00-00-00-11
+***[ITAGTABLE INFO]*** 
+ISid: 3
+   Local:
+      Gate: 0 SVid 5
+   Remote:
+************************
+Bridge MAC address 0A-AA-00-00-00-14
+Bridge MAC address 0A-AA-00-00-00-17
+Bridge MAC address 0A-AA-00-00-00-1A
+Bridge MAC address 0A-AA-00-00-00-1D
+Bridge MAC address 0A-AA-00-00-00-20
+Bridge MAC address 0A-AA-00-00-00-23
+Bridge MAC address 0A-AA-00-00-00-26
+Bridge MAC address 0A-AA-00-00-00-29
+Bridge MAC address 0A-AA-00-00-00-2C
+Bridge MAC address 0A-AA-00-00-00-2F
+Bridge MAC address 0A-AA-00-00-00-32
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 539   present: 539   in FES: 218
+** Event #218368   T=304.938055993177   Elapsed: 2.001s (0m 02s)  25% completed
+     Speed:     ev/sec=109129   simsec/sec=152.393   ev/simsec=716.106
+     Messages:  created: 79013   present: 414   in FES: 91
+** Event #417536   T=534.000005499999   Elapsed: 4.006s (0m 04s)  44% completed
+     Speed:     ev/sec=99335.7   simsec/sec=114.245   ev/simsec=869.494
+     Messages:  created: 149439   present: 424   in FES: 103
+** Event #628992   T=792.000005499999   Elapsed: 6.007s (0m 06s)  66% completed
+     Speed:     ev/sec=105675   simsec/sec=128.936   ev/simsec=819.597
+     Messages:  created: 224376   present: 426   in FES: 105
+** Event #853504   T=1049.540769599702   Elapsed: 8.009s (0m 08s)  87% completed
+     Speed:     ev/sec=112200   simsec/sec=128.706   ev/simsec=871.753
+     Messages:  created: 303785   present: 417   in FES: 90
+** Event #976271   T=1200   Elapsed: 9.123s (0m 09s)  100% completed
+     Speed:     ev/sec=110203   simsec/sec=135.062   ev/simsec=815.942
+     Messages:  created: 347278   present: 410   in FES: 89
+
+<!> Simulation time limit reached -- simulation stopped at event #976271, t=1200.
+
+
+Calling finish() at end of Run #0...
+
+End.

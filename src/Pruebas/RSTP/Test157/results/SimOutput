@@ -1,0 +1,308 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test157, run #0...
+Scenario: $repetition=0
+Assigned runID=Test157-0-20110218-11:50:42-302
+Setting up network `CompleteNetwork'...
+Initializing...
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+switchBEB3
+RSTP state
+Priority: 0
+Local MAC: 00-00-00-00-00-00
+Port State/Role: 
+Per port best source. Root/Src
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 3 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+
+switchBEB5
+RSTP state
+Priority: 1765542153
+Local MAC: 00-00-00-00-00-00
+Port State/Role: 
+Per port best source. Root/Src
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+switchBEB6
+RSTP state
+Priority: 1346111754
+Local MAC: 00-00-00-00-00-00
+Port State/Role: 
+Per port best source. Root/Src
+
+
+Reading Port 0 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 1 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 2 info
+Register.1
+Register.2
+Register.3
+Register.4
+
+
+Reading Port 3 info
+Register.1
+Register.2
+Register.3
+Register.4
+Index out of bounds
+Index out of bounds
+Index out of bounds
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+
+switchBEB1
+RSTP state
+Priority: 128
+Local MAC: AA-AA-AA-00-00-01
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+AA-AA-AA-00-00-01/AA-AA-AA-00-00-01
+AA-AA-AA-00-00-01/AA-AA-AA-00-00-01
+
+switchBEB2
+RSTP state
+Priority: 128
+Local MAC: AA-AA-AA-00-00-02
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+AA-AA-AA-00-00-02/AA-AA-AA-00-00-02
+AA-AA-AA-00-00-02/AA-AA-AA-00-00-02
+AA-AA-AA-00-00-02/AA-AA-AA-00-00-02
+
+switchBEB3
+RSTP state
+Priority: 128
+Local MAC: AA-AA-AA-00-00-03
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+AA-AA-AA-00-00-03/AA-AA-AA-00-00-03
+AA-AA-AA-00-00-03/AA-AA-AA-00-00-03
+
+switchBEB4
+RSTP state
+Priority: 128
+Local MAC: AA-AA-AA-00-00-04
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+AA-AA-AA-00-00-04/AA-AA-AA-00-00-04
+AA-AA-AA-00-00-04/AA-AA-AA-00-00-04
+AA-AA-AA-00-00-04/AA-AA-AA-00-00-04
+AA-AA-AA-00-00-04/AA-AA-AA-00-00-04
+
+switchBEB5
+RSTP state
+Priority: 128
+Local MAC: AA-AA-AA-00-00-05
+Port State/Role: 
+0 Discarding  Not assigned
+Per port best source. Root/Src
+AA-AA-AA-00-00-05/AA-AA-AA-00-00-05
+
+switchBEB6
+RSTP state
+Priority: 128
+Local MAC: AA-AA-AA-00-00-06
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+AA-AA-AA-00-00-06/AA-AA-AA-00-00-06
+AA-AA-AA-00-00-06/AA-AA-AA-00-00-06
+
+switchBEB7
+RSTP state
+Priority: 128
+Local MAC: AA-AA-AA-00-00-07
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+AA-AA-AA-00-00-07/AA-AA-AA-00-00-07
+AA-AA-AA-00-00-07/AA-AA-AA-00-00-07
+AA-AA-AA-00-00-07/AA-AA-AA-00-00-07
+AA-AA-AA-00-00-07/AA-AA-AA-00-00-07
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 153   present: 153   in FES: 66
+** Event #32677   T=250.000001   Elapsed: 0.284s (0m 00s)  100% completed
+     Speed:     ev/sec=115056   simsec/sec=880.282   ev/simsec=130.704
+     Messages:  created: 12053   present: 119   in FES: 30
+
+<!> Simulation time limit reached -- simulation stopped at event #32677, t=250.000001.
+
+
+Calling finish() at end of Run #0...
+
+End.

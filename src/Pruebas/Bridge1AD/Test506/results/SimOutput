@@ -1,0 +1,115 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test506, run #0...
+Scenario: $repetition=0
+Assigned runID=Test506-0-20110218-11:50:51-630
+Setting up network `Bridge1ADTester4'...
+Initializing...
+
+
+Reading PortFilt info 0
+Registered CVIDs. 
+0
+1
+2
+3
+4
+5
+6
+
+
+Reading PortFilt info 1
+Registered CVIDs. 
+0
+1
+2
+3
+4
+5
+6
+
+
+Reading PortFilt info 2
+Registered CVIDs. 
+0
+1
+2
+3
+4
+5
+6
+
+
+Reading PortFilt info 3
+Registered CVIDs. 
+0
+1
+2
+3
+4
+5
+6
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+T0
+Sent messages1
+Received messages 0
+BPDU 0
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+T1
+Sent messages1
+Received messages 0
+BPDU 0
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+T2
+Sent messages1
+Received messages 0
+BPDU 0
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+T3
+Sent messages1
+Received messages 0
+BPDU 0
+Autoconfig: advertising our settings: 100Mb, duplex
+
+Bridge
+RSTP state
+Priority: 128
+Local MAC: 00-00-00-00-00-01
+Port State/Role: 
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+Per port best source. Root/Src
+00-00-00-00-00-01/00-00-00-00-00-01
+00-00-00-00-00-01/00-00-00-00-00-01
+00-00-00-00-00-01/00-00-00-00-00-01
+00-00-00-00-00-01/00-00-00-00-00-01
+Bridge MAC address 00-00-00-00-00-01
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 71   present: 71   in FES: 26
+** Event #297   T=10   Elapsed: 0.002s (0m 00s)  100% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 165   present: 55   in FES: 6
+
+<!> Simulation time limit reached -- simulation stopped at event #297, t=10.
+
+
+Calling finish() at end of Run #0...
+
+End.

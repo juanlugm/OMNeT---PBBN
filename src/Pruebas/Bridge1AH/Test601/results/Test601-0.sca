@@ -1,0 +1,17 @@
+version 2
+run Test601-0-20110218-11:50:53-717
+attr configname Test601
+attr datetime 20110218-11:50:53
+attr experiment Test601
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network BEBTester4
+attr processid 717
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+

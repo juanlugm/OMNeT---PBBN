@@ -1,0 +1,162 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test451, run #0...
+Scenario: $repetition=0
+Assigned runID=Test451-0-20110218-11:50:49-546
+Setting up network `Bridge1QNetwork'...
+Initializing...
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+T0
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T0.info
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+ETH1Q
+T1
+Sent messages2
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T1.info
+Autoconfig: advertising our settings: 100Mb, duplex
+T2
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T2.info
+Autoconfig: advertising our settings: 100Mb, duplex
+MVRPDU
+T3
+Sent messages1
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T3.info
+Autoconfig: advertising our settings: 100Mb, duplex
+
+Bridge1
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-01
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+0A-AA-00-00-00-01/0A-AA-00-00-00-01
+
+Bridge2
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-03
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-03/0A-AA-00-00-00-03
+0A-AA-00-00-00-03/0A-AA-00-00-00-03
+0A-AA-00-00-00-03/0A-AA-00-00-00-03
+0A-AA-00-00-00-03/0A-AA-00-00-00-03
+
+Bridge3
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-07
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-07/0A-AA-00-00-00-07
+0A-AA-00-00-00-07/0A-AA-00-00-00-07
+0A-AA-00-00-00-07/0A-AA-00-00-00-07
+
+Bridge4
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0A
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-0A/0A-AA-00-00-00-0A
+0A-AA-00-00-00-0A/0A-AA-00-00-00-0A
+0A-AA-00-00-00-0A/0A-AA-00-00-00-0A
+
+Bridge5
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-0D
+Port State/Role: 
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+0A-AA-00-00-00-0D/0A-AA-00-00-00-0D
+
+Bridge6
+RSTP state
+Priority: 128
+Local MAC: 0A-AA-00-00-00-11
+Port State/Role: 
+0 Discarding  Not assigned
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+Per port best source. Root/Src
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+0A-AA-00-00-00-11/0A-AA-00-00-00-11
+Bridge MAC address 0A-AA-00-00-00-01
+Bridge MAC address 0A-AA-00-00-00-03
+Bridge MAC address 0A-AA-00-00-00-07
+Bridge MAC address 0A-AA-00-00-00-0A
+Bridge MAC address 0A-AA-00-00-00-0D
+Bridge MAC address 0A-AA-00-00-00-11
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 205   present: 205   in FES: 77
+** Event #9124   T=60   Elapsed: 0.092s (0m 00s)  100% completed
+     Speed:     ev/sec=99163   simsec/sec=652.174   ev/simsec=152.05
+     Messages:  created: 3296   present: 161   in FES: 26
+
+<!> Simulation time limit reached -- simulation stopped at event #9124, t=60.
+
+
+Calling finish() at end of Run #0...
+
+End.

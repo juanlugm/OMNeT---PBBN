@@ -1,0 +1,17 @@
+version 2
+run Test151-0-20110218-11:50:40-32704
+attr configname Test151
+attr datetime 20110218-11:50:40
+attr experiment Test151
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network CompleteNetwork
+attr processid 32704
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+

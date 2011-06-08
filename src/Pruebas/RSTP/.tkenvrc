@@ -1,0 +1,10 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "PruebaBBstar" "PruebaBBstar" "2" "612x446+6+48"
+inspector "PruebaBB" "PruebaBB" "2" "607x461+120+48"
+inspector "PruebaBB.switchBEB1" "BEB" "2" "492x531+67+190"
+inspector "PruebaBB3.hostA.mac.EndJamming." "BPDU" "1" "460x317+759+422"
+inspector "PruebaBB2" "PruebaBB2" "2" "735x405+6+48"
+inspector "PruebaBB2hops" "PruebaBB2hops" "2" "612x410+6+48"
+inspector "CompleteNetwork" "CompleteNetwork" "2" "607x360+310+302:normal"
+inspector "PruebaBB.switchBEB2" "BEB" "2" "607x545+713+117"
+

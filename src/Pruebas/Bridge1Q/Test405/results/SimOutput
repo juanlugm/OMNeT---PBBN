@@ -1,0 +1,72 @@
+OMNeT++ Discrete Event Simulation  (C) 1992-2010 Andras Varga, OpenSim Ltd.
+Version: 4.1, build: 100611-4b63c38, edition: Academic Public License -- NOT FOR COMMERCIAL USE
+See the license for distribution terms and warranty disclaimer
+Setting up Cmdenv...
+Loading NED files from ../: 9
+Loading NED files from ../../src/: 204
+
+Preparing for running configuration Test405, run #0...
+Scenario: $repetition=0
+Assigned runID=Test405-0-20110218-11:50:48-492
+Setting up network `Bridge1QTester4'...
+Initializing...
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+Autoconfig: advertising our settings: 100Mb, duplex
+T0
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T0.info
+Autoconfig: advertising our settings: 100Mb, duplex
+ETH1Q
+T1
+Sent messages1
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T1.info
+Autoconfig: advertising our settings: 100Mb, duplex
+T2
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T2.info
+Autoconfig: advertising our settings: 100Mb, duplex
+T3
+Sent messages0
+Received messages 0
+BPDU 0
+Printing file. results/TESTER-T3.info
+Autoconfig: advertising our settings: 100Mb, duplex
+
+Bridge
+RSTP state
+Priority: 128
+Local MAC: 00-00-00-00-00-01
+Port State/Role: 
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+2 Forwarding  Designated (Client)
+0 Discarding  Not assigned
+Per port best source. Root/Src
+00-00-00-00-00-01/00-00-00-00-00-01
+00-00-00-00-00-01/00-00-00-00-00-01
+00-00-00-00-00-01/00-00-00-00-00-01
+00-00-00-00-00-01/00-00-00-00-00-01
+Bridge MAC address 00-00-00-00-00-01
+
+Running simulation...
+** Event #1   T=0   Elapsed: 0.000s (0m 00s)  0% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 70   present: 70   in FES: 23
+** Event #223   T=10   Elapsed: 0.002s (0m 00s)  100% completed
+     Speed:     ev/sec=0   simsec/sec=0   ev/simsec=0
+     Messages:  created: 141   present: 55   in FES: 6
+
+<!> Simulation time limit reached -- simulation stopped at event #223, t=10.
+
+
+Calling finish() at end of Run #0...
+
+End.
