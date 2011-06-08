@@ -1,0 +1,25 @@
+Please, read the README file before.
+
+SHORT INSTALLATION GUIDE
+========================
+
+IMPORTANT: Please note that this installation may override some of your inet project files. It is recommended to use a clean inet installation unless you know what you are doing.
+
+Prerequisites:
+    -OMNeT++ 4.1 working installation.
+    -Inet project imported. (Tested over inet-20100723)
+    -802.1ahModel.tgz file.
+
+Installation steps:
+    -Extract 802.1ahModel next to the inet project folder.
+    -make install   
+
+It is asumed that the inet project folder and 802.1ahModel folder are
+placed together. If this is not your case please type:
+
+make INET_LOCATION=YourInetPATH
+
+If there are not errors, all src files will be placed with your inet src files. 
+
+
+

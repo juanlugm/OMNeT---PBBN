@@ -22,5 +22,17 @@ Tutor: Juan Manuel Vozmediano Torres  jvt@trajano.us.es
 
 INSTALLATION AND USER GUIDE
 ****************************************************************
-You can find an installation guide at INSTALL-ENG.pdf or
-INSTALL-ESP.pdf
+You can find an installation guide at INSTALL-ENG.txt or
+INSTALL-ESP.txt
+
+
+REPO
+****************************************************************
+Install- Installation files. 802.1ahModel.tgz is needed if you just want
+   to use the model.
+
+Src- Uncompressed files. Edit and review.
+   /Makefile. Installation and Test launching
+   /Pruebas. Validation test files.
+   /src. Model source code. C++, ned, xml files...
+

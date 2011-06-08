@@ -1,0 +1,23 @@
+Por favor, lea el archivo Leame (README) previamente.
+
+GUÍA RÁPIDA DE INSTALACIÓN
+==========================
+
+
+IMPORTANTE: Por favor, tenga en cuenta que esta instalación puede sobreescribir algunos de los ficheros de su librería INET. Se recomienda usar una instalación limpia de dicho proyecto a menos que sepa lo que está haciendo.
+
+Prerrequisitos:
+    -OMNeT++ 4.1 instalado y funcionando.
+    -Proyecto Inet importado. (Probado con inet-20100723)
+    -Archivo 802.1ahModel.tgz.
+
+Pasos para la instalación:
+    -Extraiga 802.1ahModel junto a la carpeta donde se encuentra el proyecto inet.
+    -Ejecute make install   
+
+Se ha asumido que la carpeta inet y la carpeta 802.1ahModel extraida se encuentran en la misma ruta. Si no es ese su caso deberá ejecutar previamente:
+
+make INET_LOCATION=RutaAInet
+
+Si no hay errores, todos los ficheros fuente del modelo se copiaran junto a los fichero de INET y serán compilados en su próximo uso.
+
